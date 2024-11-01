@@ -24,7 +24,9 @@ O ESP32 cria uma rede Wi-Fi à qual eu me conecto para acessar uma página web. 
 
 O chassi foi projetado para ser leve e resistente, proporcionando uma base sólida para os servos e o ESP32. Abaixo estão algumas imagens 3D do projeto:
 
-![Modelo 3D do Chassi](caminho/para/imagem1.png)
+<p float="left">
+  <img src="/3D/images/1.png" width="250" />
+![Modelo 3D do Chassi](3D/images/1.png)
 ![Vista Superior](caminho/para/imagem2.png)
 ![Vista Lateral](caminho/para/imagem3.png)
 
