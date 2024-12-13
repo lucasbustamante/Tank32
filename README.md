@@ -26,9 +26,15 @@ O chassi foi projetado para ser leve e resistente, proporcionando uma base sóli
 
 <p float="left">
   <img src="/3D/images/1.png" width="250" />
-![Modelo 3D do Chassi](3D/images/1.png)
-![Vista Superior](caminho/para/imagem2.png)
-![Vista Lateral](caminho/para/imagem3.png)
+
+  <img src="/3D/images/2.png" width="250" />
+
+  <img src="/3D/images/3.png" width="250" />
+  <p float="left">
+  <img src="/3D/images/5.png" width="250" />
+  <img src="/3D/images/4.png" width="250" />
+
+  
 
 ## Instalação e Uso
 
